@@ -5,13 +5,21 @@ module.exports = defineConfig({
     timeout: 120000,
 
     expect: {
-
         timeout: 10000
     },
 
     retries: 2,
 
     workers: 2,
+
+    reporter: [
+
+        ['html', {
+            open: 'always'
+        }],
+
+        ['allure-playwright']
+    ],
 
     use: {
 
@@ -20,15 +28,22 @@ module.exports = defineConfig({
 
         headless: process.env.CI ? true : false,
 
-        screenshot: 'only-on-failure',
+        // ALWAYS SAVE
 
-        video: 'retain-on-failure',
+        screenshot: 'on',
 
-        trace: 'retain-on-failure',
+        video: 'on',
+
+        trace: 'on',
 
         navigationTimeout: 60000,
 
-        actionTimeout: 30000
+        actionTimeout: 30000,
+
+        viewport: {
+            width: 1920,
+            height: 1080
+        }
     },
 
     projects: [
@@ -40,15 +55,5 @@ module.exports = defineConfig({
                 ...devices['Desktop Chrome']
             }
         }
-
-        // FIREFOX DISABLED TEMPORARILY
-        // ADD LATER AFTER STABLE
-    ],
-
-    reporter: [
-
-        ['html'],
-
-        ['allure-playwright']
     ]
 });
