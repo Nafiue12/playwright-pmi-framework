@@ -36,12 +36,3 @@ npx playwright show-report
 Generate Allure Report
 npx allure generate ./allure-results --clean
 npx allure open
-
-Save file.
-
----
-
-# STEP 12 — PUSH README
-
-```bash id="jlw018"
-git add .
