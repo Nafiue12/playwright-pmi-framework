@@ -1,0 +1,163 @@
+Dashboard Opened Successfully
+================================
+Testing Profile Button
+================================
+SUCCESS: Profile Button
+================================
+Testing Sidebar Menu: Inbox
+================================
+SUCCESS: Inbox
+Current URL: https://demo.pmibdchapter.org/dashboard
+================================
+Testing Sidebar Menu: Menu Manager
+================================
+SUCCESS: Menu Manager
+Current URL: https://demo.pmibdchapter.org/dashboard
+================================
+Testing Sidebar Menu: Media Library
+================================
+SUCCESS: Media Library
+Current URL: https://demo.pmibdchapter.org/admin/media
+================================
+Testing Sidebar Menu: Site Structure
+================================
+SUCCESS: Site Structure
+Current URL: https://demo.pmibdchapter.org/dashboard
+================================
+Testing Sidebar Menu: Manage Content
+================================
+SUCCESS: Manage Content
+Current URL: https://demo.pmibdchapter.org/dashboard
+================================
+Testing Sidebar Menu: Members & Recognition
+================================
+SUCCESS: Members & Recognition
+Current URL: https://demo.pmibdchapter.org/dashboard
+================================
+Testing Sidebar Menu: Mentorship Programme
+================================
+SUCCESS: Mentorship Programme
+Current URL: https://demo.pmibdchapter.org/dashboard
+================================
+Testing Sidebar Menu: Events
+================================
+SUCCESS: Events
+Current URL: https://demo.pmibdchapter.org/dashboard
+================================
+Testing Sidebar Menu: Jobs
+================================
+SUCCESS: Jobs
+Current URL: https://demo.pmibdchapter.org/dashboard
+================================
+Testing Sidebar Menu: User Manager
+================================
+SUCCESS: User Manager
+Current URL: https://demo.pmibdchapter.org/dashboard
+================================
+Testing Dashboard Card: Enquiries
+================================
+SUCCESS: Enquiries
+Current URL: https://demo.pmibdchapter.org/enquiry
+================================
+Testing Dashboard Card: Volunteer Apps
+================================
+SUCCESS: Volunteer Apps
+Current URL: https://demo.pmibdchapter.org/volunteer-applications
+================================
+Testing Dashboard Card: Mentorship Apps
+================================
+SUCCESS: Mentorship Apps
+Current URL: https://demo.pmibdchapter.org/mentorship-applications
+================================
+Testing Dashboard Card: Pages
+================================
+SUCCESS: Pages
+Current URL: https://demo.pmibdchapter.org/admin/page-content
+================================
+Testing Dashboard Card: Announcements
+================================
+SUCCESS: Announcements
+Current URL: https://demo.pmibdchapter.org/announcement
+================================
+Testing Dashboard Card: Slider
+================================
+SUCCESS: Slider
+Current URL: https://demo.pmibdchapter.org/banner
+================================
+Testing Dashboard Card: Menu Items
+================================
+SUCCESS: Menu Items
+Current URL: https://demo.pmibdchapter.org/admin/menus
+================================
+Testing Dashboard Card: Board Members
+================================
+SUCCESS: Board Members
+Current URL: https://demo.pmibdchapter.org/admin/board-members
+================================
+Testing Dashboard Card: Past Presidents
+================================
+SUCCESS: Past Presidents
+Current URL: https://demo.pmibdchapter.org/admin/past-presidents
+================================
+Testing Dashboard Card: Mentors
+================================
+SUCCESS: Mentors
+Current URL: https://demo.pmibdchapter.org/mentors
+================================
+Testing Dashboard Card: Admin Users
+================================
+SUCCESS: Admin Users
+Current URL: https://demo.pmibdchapter.org/users
+================================
+Testing Quick Action: New Event
+================================
+SUCCESS: New Event
+Current URL: https://demo.pmibdchapter.org/admin/events/create
+================================
+Testing Quick Action: New Announcement
+================================
+SUCCESS: New Announcement
+Current URL: https://demo.pmibdchapter.org/announcement/create
+================================
+Testing Quick Action: New Banner
+================================
+SUCCESS: New Banner
+Current URL: https://demo.pmibdchapter.org/banner/create
+================================
+Testing Quick Action: New Menu Item
+================================
+SUCCESS: New Menu Item
+Current URL: https://demo.pmibdchapter.org/admin/menus/create
+================================
+Testing Quick Action: New Board Member
+================================
+SUCCESS: New Board Member
+Current URL: https://demo.pmibdchapter.org/admin/board-members/create
+================================
+Testing Quick Action: New Mentor
+================================
+SUCCESS: New Mentor
+Current URL: https://demo.pmibdchapter.org/mentors/create
+================================
+Testing Quick Action: View Enquiries
+================================
+SUCCESS: View Enquiries
+Current URL: https://demo.pmibdchapter.org/enquiry
+================================
+Testing Quick Action: Mentorship Inbox
+================================
+SUCCESS: Mentorship Inbox
+Current URL: https://demo.pmibdchapter.org/mentorship-applications
+================================
+Testing Quick Action: Volunteer Inbox
+================================
+SUCCESS: Volunteer Inbox
+Current URL: https://demo.pmibdchapter.org/volunteer-applications
+================================
+Testing View Live Site Button
+================================
+SUCCESS: View Live Site Button
+Current URL: https://demo.pmibdchapter.org/dashboard
+================================
+PMI DASHBOARD TEST COMPLETED
+================================

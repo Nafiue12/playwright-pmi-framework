@@ -1,0 +1,16 @@
+CSV Loaded Successfully
+--------------------------------
+Testing User: nafiue11@gmail.com
+--------------------------------
+Current URL: https://demo.pmibdchapter.org/dashboard
+LOGIN SUCCESS
+--------------------------------
+Testing User: wronguser@gmail.com
+--------------------------------
+Current URL: https://demo.pmibdchapter.org/login
+LOGIN FAILED
+--------------------------------
+Testing User: admin@test.com
+--------------------------------
+Current URL: https://demo.pmibdchapter.org/login
+LOGIN FAILED

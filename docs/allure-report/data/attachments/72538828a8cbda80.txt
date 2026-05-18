@@ -1,0 +1,16 @@
+Status Code: 200
+{
+  'x-powered-by': 'PHP/8.3.31',
+  'content-type': 'text/html; charset=utf-8',
+  'cache-control': 'no-cache, private',
+  'set-cookie': 'XSRF-TOKEN=eyJpdiI6InpmMlBwaHRndjJqVE1LalduRkY0b2c9PSIsInZhbHVlIjoiZXRxNHgrTlB5OTFpODYvUzZRZmFxMkxCeVh0RkV0VVZNQ0xqalNNWFVZSnZpTVIzeFhpM1hlUlYzZCtPUnBSb0JjdkRFTHdqNmhzWmpuUHQ5RVlFNmZxcGp5L3hubWZrZ2ZmQk9vS3E2S2V5eklFOGg1YS9nbXhLU3FiL2xCaE4iLCJtYWMiOiI3MzA0NWU1NzVlMjhiMmNjNmU3ZTIzYmUyMzEwMDIzMGExM2Q2YWQyYjkzOWIxMWJmYzQzYjAwYjk5N2YxMzljIiwidGFnIjoiIn0%3D; expires=Mon, 18 May 2026 12:05:30 GMT; Max-Age=7200; path=/; secure; samesite=lax\n' +
+    'pmi_bangladesh_chapter_session=eyJpdiI6IlhXMEo5bDNhb1c4dnZISmVVNlB2aUE9PSIsInZhbHVlIjoianZ5bjhDcXAxcnZZenFyLzlyZlFWcmFNbEg3TTRaM1F0bVZ5a0ZFa3ByUHVFT21kVnJIcXpNNUtWOHhDb1FGaG5hQ1hERmcrU09WMGdoTDlwQWx4b3NTTlFRWFMwb08zdCtHM29MTzlZS2k1dnhMRUVIc3VydnR2SmJBalBUYzMiLCJtYWMiOiI0MDkwOTBmMzBhYjA3MzRkMmUzZjMwZWM1ZTE0Zjg0ZmM2NzI1NWY1MjA1MjIzNzBjYTM2NzAzODdlMTVjZWIwIiwidGFnIjoiIn0%3D; expires=Mon, 18 May 2026 12:05:30 GMT; Max-Age=7200; path=/; secure; httponly; samesite=lax',
+  'content-encoding': 'gzip',
+  vary: 'Accept-Encoding',
+  'content-length': '8657',
+  date: 'Mon, 18 May 2026 10:05:30 GMT',
+  server: 'LiteSpeed',
+  'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"',
+  connection: 'Keep-Alive'
+}
+API TEST PASSED

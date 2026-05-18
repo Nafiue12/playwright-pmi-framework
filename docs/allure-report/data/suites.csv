@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","25018","Advanced PMI Dashboard Framework","chromium","2026-05-18","passed","2026-05-18","","tests\advanced-dashboard.spec.js","",""
+"","1546","API Testing Example","chromium","2026-05-18","passed","2026-05-18","","tests\api.spec.js","",""
+"","6120","get started link","chromium","2026-05-18","passed","2026-05-18","","tests\example.spec.js","",""
+"","5082","has title","chromium","2026-05-18","passed","2026-05-18","","tests\example.spec.js","",""
+"","287229","PMI Dashboard Full Testing","chromium","2026-05-18","passed","2026-05-18","","tests\dashboard.spec.js","",""
+"","33337","PMI Login Automation Using Playwright","chromium","2026-05-18","passed","2026-05-18","","tests\login.spec.js","",""
+"","8012","Dashboard Testing","chromium","2026-05-18","passed","2026-05-18","PMI Professional Framework","tests\professional-dashboard.spec.js","",""
