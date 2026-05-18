@@ -10,7 +10,10 @@ module.exports = defineConfig({
 
     use: {
 
-        headless: false,
+        // HEADLESS TRUE FOR GITHUB ACTIONS
+        // HEADLESS FALSE FOR LOCAL MACHINE
+
+        headless: process.env.CI ? true : false,
 
         screenshot: 'only-on-failure',
 
