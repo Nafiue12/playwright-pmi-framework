@@ -1,4 +1,4 @@
-const { defineConfig } = require('@playwright/test');
+const { defineConfig, devices } = require('@playwright/test');
 
 module.exports = defineConfig({
 
@@ -10,8 +10,8 @@ module.exports = defineConfig({
 
     use: {
 
-        // HEADLESS TRUE FOR GITHUB ACTIONS
-        // HEADLESS FALSE FOR LOCAL MACHINE
+        // LOCAL = visible browser
+        // GITHUB ACTIONS = headless
 
         headless: process.env.CI ? true : false,
 
@@ -21,6 +21,27 @@ module.exports = defineConfig({
 
         trace: 'retain-on-failure'
     },
+
+    // CROSS BROWSER TESTING
+
+    projects: [
+
+        {
+            name: 'chromium',
+
+            use: {
+                ...devices['Desktop Chrome']
+            }
+        },
+
+        {
+            name: 'firefox',
+
+            use: {
+                ...devices['Desktop Firefox']
+            }
+        }
+    ],
 
     reporter: [
 
